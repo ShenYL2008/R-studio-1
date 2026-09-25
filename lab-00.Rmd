@@ -16,7 +16,7 @@ library(tidyverse)
 We set up the data frame. Edit the data below to include information about your team members.
 
 ```{r setup-tibble}
-team_data <- tibble(name = c("Petter Rabbit","alessandro","yuwen","lorne"),github_username = c("mcgregors-garden","ale.margini", "qingyinmaohuli", "ShenYL2008"), colour = c("powderblue","red","olive","white"), hobby = c("Hopping", "Scatch", "Swimming", "Photographing"),favourite_number=c(2,4,3,6))
+team_data <- tibble(name = c("Petter Rabbit","alessandro","yuwen","lorne"),github_username = c("mcgregors-garden","ale.margini", "qingyinmaohuli", "ShenYL2008"), colour = c("powderblue","red","oliverab","white"), hobby = c("Hopping", "Scatch", "Swimming", "Photographing"),favourite_number=c(2,4,3,6))
 team_data
 ```
 
